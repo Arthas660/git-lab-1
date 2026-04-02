@@ -1,3 +1,3 @@
 Student : Olexii Slyvka
-Group: SA1
+Group: SA2
 Це зміна для перевірки push/pull
